@@ -29,6 +29,7 @@
         <configuration> <!-- Compile java 7 compatible bytecode -->
           <source>1.7</source>
           <target>1.7</target>
+          <executable>C:\Program Files\Java\jdk1.8.0_201\bin\javac</executable>
         </configuration>
       </plugin>
       
